@@ -47,7 +47,7 @@ Benard is cureently a Co-founder of "Altwave Studio"</h4>
 
 
 
-### Hi there 👋
+<!--### Hi there 👋-->
 
 <!--
 **BenardOtokpa/BenardOtokpa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
